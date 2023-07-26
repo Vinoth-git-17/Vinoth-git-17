@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Vinoth</h1>
-<h3 align="center">A Passionate Frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Vinoth👨‍🎓</h1>
+<h3 align="center">A Passionate Frontend developer from India🌈</h3>
+<div align=center>
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 ---
 
