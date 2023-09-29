@@ -12,14 +12,14 @@
 -  Aspiring Future Full stack developer
 -  I’m currently learning **Typescript, React , Express**
 -  Keen interest towards Web development
--  How to reach me **vinothnick17@gmail.com**
+-  Reach me **vinothnick17@gmail.com**
 
 ---
 
 ### 🤝&nbsp; Connect with me
 <p align="left">
 <a href="https://instagram.com/iamvinothhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamvinothhhh" height="30" width="40" /></a>
-<a href="http://devvino.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/V-logo.svg/2048px-V-logo.svg.png" alt="portfolio" height="30" width="40" /></a>
+<a href="https://vinoth-git-17.github.io/portfolio/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/V-logo.svg/2048px-V-logo.svg.png" alt="portfolio" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/vinoth-e-402b69231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
